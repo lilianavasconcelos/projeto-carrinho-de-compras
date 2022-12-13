@@ -1,13 +1,13 @@
 # Projeto carrinho de compras - JavaScript🚀 
 
-![image](https://media2.giphy.com/media/D567hs4Dex0GEnAKOY/giphy.gif)
+![image](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ---
 
 ## Projeto
 ### `Carrinho de compras`
 
-> ⚠️ Neste site, eu treino a aplicação dos conceitos fundamentais de ReactJS que aprendi durante o módulo de ReactJS da Reprograma.
+> ⚠️ Neste site, eu treino a aplicação dos conceitos fundamentais de JavaScript que aprendi durante o módulo de JavaScript do Instituto Nubank.
 
 #### Resumo dos conteúdos aplicados
 
@@ -54,6 +54,12 @@ Siga os passos e inclua as informações abaixo:
 ---
 
 _Foi incrível compartilhar essa jornada com você! Qualquer dúvida ou sugestão, chama no contatinho!_
+<br />
+<br />
+
+---
+
+![image](https://giphy.com/clips/ralph-8CYD7zQOYECt2UolVp)
 
 <br>
 Feito com 💜 por Liliana Vasconcelos
