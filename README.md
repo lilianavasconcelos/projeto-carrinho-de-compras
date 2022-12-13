@@ -7,7 +7,7 @@
 ## Projeto
 ### `Carrinho de compras`
 
-> ⚠️ Neste site, eu treino a aplicação dos conceitos fundamentais de JavaScript que aprendi durante o módulo de JavaScript do Instituto Nubank.
+> ⚠️ Nesta atividade, eu treino a aplicação dos conceitos fundamentais de JavaScript que aprendi durante o módulo de JavaScript do Instituto Nubank.
 
 #### Resumo dos conteúdos aplicados
 
@@ -59,7 +59,7 @@ _Foi incrível compartilhar essa jornada com você! Qualquer dúvida ou sugestã
 
 ---
 
-![image](https://giphy.com/clips/ralph-8CYD7zQOYECt2UolVp)
+![image](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 <br>
 Feito com 💜 por Liliana Vasconcelos
