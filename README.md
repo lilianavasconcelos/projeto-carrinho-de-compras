@@ -59,7 +59,7 @@ _Foi incrível compartilhar essa jornada com você! Qualquer dúvida ou sugestã
 
 ---
 
-![image](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![image](https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif)
 
 <br>
 Feito com 💜 por Liliana Vasconcelos
