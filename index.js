@@ -23,8 +23,6 @@ function removerItem(item){
         total.innerHTML = valorTotal[item].toFixed(2);
         
         valorCompra();
-
-
     }
 }
 
@@ -37,6 +35,4 @@ function valorCompra(){
     }
 
     valorTotalCompra.innerHTML = valor.toFixed(2);
-
-
 }
